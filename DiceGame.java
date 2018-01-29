@@ -1,15 +1,9 @@
-// Name: Parakram Basnet          Date Assigned: 3/16/2017
-//
-// Course: CSCI 2003 60357        Date Due: 3/23/2017
-//
-// Instructor: Ms. Greer
-//
 // File name: DiceGame.java
 //
 // Program Description: The program will first display an introduction and the rules of the game. 
-// It asks player one to enter “R” to roll all 6 dice. The roll is displayed. Then, if any 
+// It asks player one to enter â€œRâ€ to roll all 6 dice. The roll is displayed. Then, if any 
 // sequences are found, those are displayed separately, and points gained from them are added to 
-// player 1’s score. If no sequences are found, it says “No sequences!” and no points are added. 
+// player 1â€™s score. If no sequences are found, it says â€œNo sequences!â€ and no points are added. 
 // This process repeats for player 2. The players alternate turns until one player reaches 100. At
 // the end, the winning player is declared, and then the program ends.
 
