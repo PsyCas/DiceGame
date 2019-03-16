@@ -7,7 +7,7 @@
 // This process repeats for player 2. The players alternate turns until one player reaches 100. At
 // the end, the winning player is declared, and then the program ends.
 
-// Importing Scanner and Random class from java.util package
+// Import Scanner and Random class from java.util package
 import java.util.Scanner;
 import java.util.Random;
 
